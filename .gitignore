@@ -1,0 +1,7 @@
+.env
+__pycache__/
+outputs/
+faiss_db/
+data/
+data.zip
+*.pyc
